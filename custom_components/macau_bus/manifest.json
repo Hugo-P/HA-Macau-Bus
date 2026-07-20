@@ -1,0 +1,11 @@
+{
+  "domain": "macau_bus",
+  "name": "澳門巴士 Macau Bus",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/user/macau_bus",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "1.0.0"
+}

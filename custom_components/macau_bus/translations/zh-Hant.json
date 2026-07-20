@@ -1,0 +1,29 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "澳門巴士 Macau Bus",
+        "data": {
+          "device_tracker": "GPS 來源裝置",
+          "routes": "路線篩選（逗號分隔，留空顯示全部）",
+          "radius": "搜尋半徑 (米)",
+          "scan_interval": "更新間隔 (秒)"
+        },
+        "description": "選擇 GPS 裝置，程式會自動擷取位置並搜尋附近站點和路線。"
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "設定",
+        "data": {
+          "device_tracker": "GPS 來源裝置",
+          "routes": "路線篩選（逗號分隔，留空顯示全部）",
+          "radius": "搜尋半徑 (米)",
+          "scan_interval": "更新間隔 (秒)"
+        }
+      }
+    }
+  }
+}
